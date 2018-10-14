@@ -13,16 +13,16 @@
     
     
     <item>
-      <title>Jeux Intéractifs</title>
+      <title>Jeux Interactifs</title>
       <link>/project/unity/</link>
       <pubDate>Sun, 14 Oct 2018 11:53:02 +0200</pubDate>
       
       <guid>/project/unity/</guid>
       <description>Dans le cadre de mon stage, j&amp;rsquo;ai développé des applications Unity tactiles en C#.
 J&amp;rsquo;en ai développé 3.
-La première était simple il fallait amener un point A vers un point B en utilisant du drag and drop.
-La deuxième était un casse brique où on devait casser des briques avec le tactile pour dévoiler un paysage de Savoie.
-La troisième était un jeu en collaboration à 4. Les joueurs se retrouvaient dans un fast food.</description>
+La première application était simple il fallait amener un point A vers un point B en utilisant du drag and drop.
+La deuxième application était un casse brique où on devait casser des briques avec le tactile pour dévoiler un paysage de Savoie.
+La troisième application était un jeu en collaboration à 4.</description>
     </item>
     
     <item>
@@ -31,9 +31,9 @@ La troisième était un jeu en collaboration à 4. Les joueurs se retrouvaient d
       <pubDate>Sat, 13 Oct 2018 10:22:59 +0200</pubDate>
       
       <guid>/project/projetmoteur3d/</guid>
-      <description>Le principe du jeu est simple : éviter les boites qui arrivent du tunnel. Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
+      <description>Le principe du jeu est simple : éviter les boites qui sortent du tunnel. Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
 Le jeu devient de plus en plus difficile et un score est calculé à la fin.
-Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous même les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
+Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous-même les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
     </item>
     
   </channel>

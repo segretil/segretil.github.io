@@ -29,9 +29,9 @@ Nous avons tout de même utilisé OpenGL pour faire le rendu graphique.
       <pubDate>Sat, 13 Oct 2018 10:22:59 +0200</pubDate>
       
       <guid>/project/projetmoteur3d/</guid>
-      <description>Le principe du jeu est simple : éviter les boites qui arrivent du tunnel. Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
+      <description>Le principe du jeu est simple : éviter les boites qui sortent du tunnel. Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
 Le jeu devient de plus en plus difficile et un score est calculé à la fin.
-Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous même les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
+Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous-même les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
     </item>
     
   </channel>

@@ -24,16 +24,16 @@ J&amp;rsquo;ai eu l&amp;rsquo;occasion de me perfectionner en C++ et d&amp;rsquo
     </item>
     
     <item>
-      <title>Jeux Intéractifs</title>
+      <title>Jeux Interactifs</title>
       <link>/project/unity/</link>
       <pubDate>Sun, 14 Oct 2018 11:53:02 +0200</pubDate>
       
       <guid>/project/unity/</guid>
       <description>Dans le cadre de mon stage, j&amp;rsquo;ai développé des applications Unity tactiles en C#.
 J&amp;rsquo;en ai développé 3.
-La première était simple il fallait amener un point A vers un point B en utilisant du drag and drop.
-La deuxième était un casse brique où on devait casser des briques avec le tactile pour dévoiler un paysage de Savoie.
-La troisième était un jeu en collaboration à 4. Les joueurs se retrouvaient dans un fast food.</description>
+La première application était simple il fallait amener un point A vers un point B en utilisant du drag and drop.
+La deuxième application était un casse brique où on devait casser des briques avec le tactile pour dévoiler un paysage de Savoie.
+La troisième application était un jeu en collaboration à 4.</description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ Nous avons ensuite évalué les performances de chacune de ces méthodes.</descr
       <pubDate>Sun, 14 Oct 2018 10:53:57 +0200</pubDate>
       
       <guid>/project/projetihm/</guid>
-      <description>Le but de ce projet était de s&amp;rsquo;intéresser à une problématique d&amp;rsquo;un utilisateur type et de lui proposer un prototype d&amp;rsquo;application mobile qui répond à ses besoins. Nous avons choisi de faire une application de recherche de loisirs.
+      <description>Le but de ce projet était de s&amp;rsquo;intéresser à une problématique d&amp;rsquo;un utilisateur type et de lui proposer un prototype d&amp;rsquo;application mobile qui puisse répondre à ses besoins. Nous avons choisi de faire une application de recherche de loisirs.
 Nous avons donc dans un premier temps demandé ce que les utilisateurs recherchaient dans cette application. Puis nous avons établi les fonctionnalités coeurs. Nous l&amp;rsquo;avons ensuite prototypé en appliquant les grands principes de l&amp;rsquo;ergonomie.</description>
     </item>
     
@@ -77,9 +77,9 @@ Nous avons tout de même utilisé OpenGL pour faire le rendu graphique.
       <pubDate>Sat, 13 Oct 2018 10:22:59 +0200</pubDate>
       
       <guid>/project/projetmoteur3d/</guid>
-      <description>Le principe du jeu est simple : éviter les boites qui arrivent du tunnel. Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
+      <description>Le principe du jeu est simple : éviter les boites qui sortent du tunnel. Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
 Le jeu devient de plus en plus difficile et un score est calculé à la fin.
-Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous même les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
+Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous-même les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
     </item>
     
   </channel>
