@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Portfolio</title>
+    <link>/</link>
+    <description>Recent content in Portfolio on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Détection d&#39;objets</title>
+      <link>/project/kubeimage/</link>
+      <pubDate>Sun, 14 Oct 2018 13:52:31 +0200</pubDate>
+      
+      <guid>/project/kubeimage/</guid>
+      <description>&lt;p&gt;Dans le cadre de mon stage, j&amp;rsquo;ai du mettre en place un système de détection d&amp;rsquo;objets
+basé sur un flux vidéo d&amp;rsquo;une caméra infra-rouge.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai amélioré la solution qui était déjà implémentée en apportant
+mes connaissances en mathématiques appliquées.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai eu l&amp;rsquo;occasion de me perfectionner en &lt;strong&gt;C++&lt;/strong&gt; et d&amp;rsquo;apprendre à utiliser
+&lt;strong&gt;OpenCV&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jeux Intéractifs</title>
+      <link>/project/unity/</link>
+      <pubDate>Sun, 14 Oct 2018 11:53:02 +0200</pubDate>
+      
+      <guid>/project/unity/</guid>
+      <description>&lt;p&gt;Dans le cadre de mon stage, j&amp;rsquo;ai développé des applications Unity tactiles en C#.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;en ai développé 3.&lt;/p&gt;
+
+&lt;p&gt;La première était simple il fallait amener un point A vers un
+point B en utilisant du drag and drop.&lt;/p&gt;
+
+&lt;p&gt;La deuxième était un casse brique où on devait casser des briques avec le tactile
+pour dévoiler un paysage de Savoie.&lt;/p&gt;
+
+&lt;p&gt;La troisième était un jeu en collaboration à 4. Les joueurs se retrouvaient
+dans un fast food. Le but était de collaborer en faisant des taches élémentaires
+(couper les légumes, prendre les commandes, faire les burgers, &amp;hellip; ). Le jeu était
+en réseau parce que chaque tache était sur un écran différent. Je n&amp;rsquo;ai pas réussi à le
+finir par manque de temps mais j&amp;rsquo;avais réussi à mettre en place les commandes et
+la conception des burgers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Traitement Image</title>
+      <link>/project/traitementimage/</link>
+      <pubDate>Sun, 14 Oct 2018 11:25:54 +0200</pubDate>
+      
+      <guid>/project/traitementimage/</guid>
+      <description>&lt;p&gt;Dans ce projet en binôme nous avons implémenté plusieurs algorithmes de débruitage et de détection de contours.
+Pour le débruitage nous avons utilisé :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;filtre gaussien&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;filtre médian&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;filtres adaptatifs (récursif, bilatéral, &amp;hellip;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour la détection de contours nous avons mis en place le filtre LoG (Laplacian of Gaussian).&lt;/p&gt;
+
+&lt;p&gt;Nous avons ensuite évalué les performances de chacune de ces méthodes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IHM</title>
+      <link>/project/projetihm/</link>
+      <pubDate>Sun, 14 Oct 2018 10:53:57 +0200</pubDate>
+      
+      <guid>/project/projetihm/</guid>
+      <description>&lt;p&gt;Le but de ce projet était de s&amp;rsquo;intéresser à une problématique d&amp;rsquo;un utilisateur type et de
+lui proposer un prototype d&amp;rsquo;application mobile qui répond à ses besoins.
+Nous avons choisi de faire une application de recherche de loisirs.&lt;/p&gt;
+
+&lt;p&gt;Nous avons donc dans un premier temps demandé ce que les utilisateurs recherchaient
+dans cette application. Puis nous avons établi les fonctionnalités coeurs. Nous
+l&amp;rsquo;avons ensuite prototypé en appliquant les grands principes de l&amp;rsquo;ergonomie.
+Puis nous l&amp;rsquo;avons fait testés par les utilisateurs
+pour pouvoir refaire un cycle de conception.&lt;/p&gt;
+
+&lt;p&gt;Nous avons fait le prototype avec &lt;strong&gt;adobe XD&lt;/strong&gt; voici le lien pour le voir:
+&lt;a href=&#34;https://xd.adobe.com/spec/9958b648-fb48-4d3d-ad8a-898750d33060&#34; target=&#34;_blank&#34;&gt;https://xd.adobe.com/spec/9958b648-fb48-4d3d-ad8a-898750d33060&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modélisation 3D</title>
+      <link>/project/projetcpp/</link>
+      <pubDate>Sat, 13 Oct 2018 20:05:25 +0200</pubDate>
+      
+      <guid>/project/projetcpp/</guid>
+      <description>&lt;p&gt;Nous avons fait ce projet en binôme. Le but était de modéliser la surface d&amp;rsquo;un océan.
+Il a été entièrement codé en &lt;strong&gt;C++&lt;/strong&gt;. Nous sommes partis de rien et
+nous avons tout défini : Les vecteurs, la FFT, les matrices, &amp;hellip; Nous
+avons utilisé le &lt;strong&gt;modèle de Philips&lt;/strong&gt; pour représenter la houle.&lt;/p&gt;
+
+&lt;p&gt;Nous avons tout de même utilisé &lt;strong&gt;OpenGL&lt;/strong&gt; pour faire le rendu graphique.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Iwg73ez3Uy4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Jeu 3D</title>
+      <link>/project/projetmoteur3d/</link>
+      <pubDate>Sat, 13 Oct 2018 10:22:59 +0200</pubDate>
+      
+      <guid>/project/projetmoteur3d/</guid>
+      <description>&lt;p&gt;Le principe du jeu est simple : éviter les boites qui arrivent du tunnel.
+Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.&lt;/p&gt;
+
+&lt;p&gt;Le jeu devient de plus en plus difficile et un score est calculé à la fin.&lt;/p&gt;
+
+&lt;p&gt;Nous avons fait ce projet à 3. Il a été fait avec &lt;strong&gt;OpenGL&lt;/strong&gt; et nous avons écrit nous même les shaders.
+Nous avons mis en place le &lt;strong&gt;modèle de Phong&lt;/strong&gt; pour
+les effets de lumières. Nous avons aussi utilisé une &lt;strong&gt;heightmap&lt;/strong&gt; pour les reliefs.
+Nous avons utilisé un &lt;strong&gt;modèle hiérarchique&lt;/strong&gt; pour faire le bonhomme.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/0PcmvwCwzTk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

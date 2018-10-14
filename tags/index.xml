@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Portfolio</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 13 Oct 2018 20:05:25 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D</title>
+      <link>/tags/3d/</link>
+      <pubDate>Sat, 13 Oct 2018 20:05:25 +0200</pubDate>
+      
+      <guid>/tags/3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>/tags/gaming/</link>
+      <pubDate>Sun, 14 Oct 2018 11:53:02 +0200</pubDate>
+      
+      <guid>/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image-processing</title>
+      <link>/tags/image-processing/</link>
+      <pubDate>Sun, 14 Oct 2018 13:52:31 +0200</pubDate>
+      
+      <guid>/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>other</title>
+      <link>/tags/other/</link>
+      <pubDate>Sun, 14 Oct 2018 10:53:57 +0200</pubDate>
+      
+      <guid>/tags/other/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

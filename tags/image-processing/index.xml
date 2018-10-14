@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image-processing on Portfolio</title>
+    <link>/tags/image-processing/</link>
+    <description>Recent content in image-processing on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 14 Oct 2018 13:52:31 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Détection d&#39;objets</title>
+      <link>/project/kubeimage/</link>
+      <pubDate>Sun, 14 Oct 2018 13:52:31 +0200</pubDate>
+      
+      <guid>/project/kubeimage/</guid>
+      <description>Dans le cadre de mon stage, j&amp;rsquo;ai du mettre en place un système de détection d&amp;rsquo;objets basé sur un flux vidéo d&amp;rsquo;une caméra infra-rouge.
+J&amp;rsquo;ai amélioré la solution qui était déjà implémentée en apportant mes connaissances en mathématiques appliquées.
+J&amp;rsquo;ai eu l&amp;rsquo;occasion de me perfectionner en C++ et d&amp;rsquo;apprendre à utiliser OpenCV.</description>
+    </item>
+    
+    <item>
+      <title>Traitement Image</title>
+      <link>/project/traitementimage/</link>
+      <pubDate>Sun, 14 Oct 2018 11:25:54 +0200</pubDate>
+      
+      <guid>/project/traitementimage/</guid>
+      <description>Dans ce projet en binôme nous avons implémenté plusieurs algorithmes de débruitage et de détection de contours. Pour le débruitage nous avons utilisé :
+ filtre gaussien
+ filtre médian
+ filtres adaptatifs (récursif, bilatéral, &amp;hellip;)
+  Pour la détection de contours nous avons mis en place le filtre LoG (Laplacian of Gaussian).
+Nous avons ensuite évalué les performances de chacune de ces méthodes.</description>
+    </item>
+    
+  </channel>
+</rss>

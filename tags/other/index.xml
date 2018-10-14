@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other on Portfolio</title>
+    <link>/tags/other/</link>
+    <description>Recent content in other on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 14 Oct 2018 10:53:57 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IHM</title>
+      <link>/project/projetihm/</link>
+      <pubDate>Sun, 14 Oct 2018 10:53:57 +0200</pubDate>
+      
+      <guid>/project/projetihm/</guid>
+      <description>Le but de ce projet était de s&amp;rsquo;intéresser à une problématique d&amp;rsquo;un utilisateur type et de lui proposer un prototype d&amp;rsquo;application mobile qui répond à ses besoins. Nous avons choisi de faire une application de recherche de loisirs.
+Nous avons donc dans un premier temps demandé ce que les utilisateurs recherchaient dans cette application. Puis nous avons établi les fonctionnalités coeurs. Nous l&amp;rsquo;avons ensuite prototypé en appliquant les grands principes de l&amp;rsquo;ergonomie.</description>
+    </item>
+    
+  </channel>
+</rss>

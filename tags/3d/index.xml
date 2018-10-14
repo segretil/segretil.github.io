@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D on Portfolio</title>
+    <link>/tags/3d/</link>
+    <description>Recent content in 3D on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 13 Oct 2018 20:05:25 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modélisation 3D</title>
+      <link>/project/projetcpp/</link>
+      <pubDate>Sat, 13 Oct 2018 20:05:25 +0200</pubDate>
+      
+      <guid>/project/projetcpp/</guid>
+      <description>Nous avons fait ce projet en binôme. Le but était de modéliser la surface d&amp;rsquo;un océan. Il a été entièrement codé en C++. Nous sommes partis de rien et nous avons tout défini : Les vecteurs, la FFT, les matrices, &amp;hellip; Nous avons utilisé le modèle de Philips pour représenter la houle.
+Nous avons tout de même utilisé OpenGL pour faire le rendu graphique.
+  </description>
+    </item>
+    
+    <item>
+      <title>Jeu 3D</title>
+      <link>/project/projetmoteur3d/</link>
+      <pubDate>Sat, 13 Oct 2018 10:22:59 +0200</pubDate>
+      
+      <guid>/project/projetmoteur3d/</guid>
+      <description>Le principe du jeu est simple : éviter les boites qui arrivent du tunnel. Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
+Le jeu devient de plus en plus difficile et un score est calculé à la fin.
+Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous même les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
+    </item>
+    
+  </channel>
+</rss>

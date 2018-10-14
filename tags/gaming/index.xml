@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaming on Portfolio</title>
+    <link>/tags/gaming/</link>
+    <description>Recent content in Gaming on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 14 Oct 2018 11:53:02 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jeux Intéractifs</title>
+      <link>/project/unity/</link>
+      <pubDate>Sun, 14 Oct 2018 11:53:02 +0200</pubDate>
+      
+      <guid>/project/unity/</guid>
+      <description>Dans le cadre de mon stage, j&amp;rsquo;ai développé des applications Unity tactiles en C#.
+J&amp;rsquo;en ai développé 3.
+La première était simple il fallait amener un point A vers un point B en utilisant du drag and drop.
+La deuxième était un casse brique où on devait casser des briques avec le tactile pour dévoiler un paysage de Savoie.
+La troisième était un jeu en collaboration à 4. Les joueurs se retrouvaient dans un fast food.</description>
+    </item>
+    
+    <item>
+      <title>Jeu 3D</title>
+      <link>/project/projetmoteur3d/</link>
+      <pubDate>Sat, 13 Oct 2018 10:22:59 +0200</pubDate>
+      
+      <guid>/project/projetmoteur3d/</guid>
+      <description>Le principe du jeu est simple : éviter les boites qui arrivent du tunnel. Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
+Le jeu devient de plus en plus difficile et un score est calculé à la fin.
+Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous même les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
+    </item>
+    
+  </channel>
+</rss>
