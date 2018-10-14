@@ -128,7 +128,7 @@ Le dinosaure peut être controlé avec les flèches droite et gauche du clavier.
 
 &lt;p&gt;Le jeu devient de plus en plus difficile et un score est calculé à la fin.&lt;/p&gt;
 
-&lt;p&gt;Nous avons fait ce projet à 3. Il a été fait avec &lt;strong&gt;OpenGL&lt;/strong&gt; et nous avons écrit nous-même les shaders.
+&lt;p&gt;Nous avons fait ce projet à 3. Il a été fait avec &lt;strong&gt;OpenGL&lt;/strong&gt; et nous avons écrit nous-mêmes les shaders.
 Nous avons mis en place le &lt;strong&gt;modèle de Phong&lt;/strong&gt; pour
 les effets de lumières. Nous avons aussi utilisé une &lt;strong&gt;heightmap&lt;/strong&gt; pour les reliefs.
 Nous avons utilisé un &lt;strong&gt;modèle hiérarchique&lt;/strong&gt; pour réaliser le bonhomme.&lt;/p&gt;
