@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Kaggle</title>
+      <link>/project/kaggle/</link>
+      <pubDate>Tue, 06 Nov 2018 10:12:05 +0100</pubDate>
+      
+      <guid>/project/kaggle/</guid>
+      <description>Ce projet a été fait en équipe de 4. Il consistait à mettre au point un classifieur de crimes : étant donné certaines données du crime (date, heure, localisation, &amp;hellip;) il s&amp;rsquo;agissait de prédire la catégorie de celui-ci (Burglary, driving under the influence, &amp;hellip;). Nous avions pour cela à notre disposition un ensemble de données de crimes fournis par la ville de San Francisco.
+Nous avons utilisé : réseau de neurones (Keraz), forêt aléatoire (Scikit-learn), k-means, &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Détection d&#39;objets</title>
       <link>/project/kubeimage/</link>
       <pubDate>Sun, 14 Oct 2018 13:52:31 +0200</pubDate>

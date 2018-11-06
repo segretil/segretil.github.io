@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning on Portfolio</title>
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in machine-learning on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 06 Nov 2018 10:12:05 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kaggle</title>
+      <link>/project/kaggle/</link>
+      <pubDate>Tue, 06 Nov 2018 10:12:05 +0100</pubDate>
+      
+      <guid>/project/kaggle/</guid>
+      <description>Ce projet a été fait en équipe de 4. Il consistait à mettre au point un classifieur de crimes : étant donné certaines données du crime (date, heure, localisation, &amp;hellip;) il s&amp;rsquo;agissait de prédire la catégorie de celui-ci (Burglary, driving under the influence, &amp;hellip;). Nous avions pour cela à notre disposition un ensemble de données de crimes fournis par la ville de San Francisco.
+Nous avons utilisé : réseau de neurones (Keraz), forêt aléatoire (Scikit-learn), k-means, &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

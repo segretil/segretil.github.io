@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Kaggle</title>
+      <link>/project/kaggle/</link>
+      <pubDate>Tue, 06 Nov 2018 10:12:05 +0100</pubDate>
+      
+      <guid>/project/kaggle/</guid>
+      <description>&lt;p&gt;Ce projet a été fait en équipe de 4.
+Il consistait à mettre au point un classifieur de crimes : étant donné
+certaines données du crime (date, heure, localisation, &amp;hellip;) il s&amp;rsquo;agissait de prédire
+ la catégorie de celui-ci (Burglary, driving under the influence, &amp;hellip;).
+ Nous avions pour cela à notre disposition un ensemble de données de crimes fournis
+  par la ville de San Francisco.&lt;/p&gt;
+
+&lt;p&gt;Nous avons utilisé : &lt;strong&gt;réseau de neurones&lt;/strong&gt; (Keraz), &lt;strong&gt;forêt aléatoire&lt;/strong&gt; (Scikit-learn),
+ &lt;strong&gt;k-means&lt;/strong&gt;, &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Détection d&#39;objets</title>
       <link>/project/kubeimage/</link>
       <pubDate>Sun, 14 Oct 2018 13:52:31 +0200</pubDate>

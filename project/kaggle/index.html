@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -17,10 +15,10 @@
   
     
   
-  <meta name="description" content="Etudiant ingénieur en 3ème année">
+  <meta name="description" content="Classification de crimes à San Francisco codé en Python (Tensorflow, Keraz, Pandas, ...)">
 
   
-  <link rel="alternate" hreflang="fr" href="/tags/">
+  <link rel="alternate" hreflang="fr" href="/project/kaggle/">
 
   
 
@@ -80,36 +78,38 @@
   
 
   
-  <link rel="alternate" href="/tags/index.xml" type="application/rss+xml" title="Portfolio">
-  <link rel="feed" href="/tags/index.xml" type="application/rss+xml" title="Portfolio">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Portfolio">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Portfolio">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/tags/">
+  <link rel="canonical" href="/project/kaggle/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Portfolio">
-  <meta property="og:url" content="/tags/">
-  <meta property="og:title" content="Tags | Portfolio">
-  <meta property="og:description" content="Etudiant ingénieur en 3ème année">
+  <meta property="og:url" content="/project/kaggle/">
+  <meta property="og:title" content="Kaggle | Portfolio">
+  <meta property="og:description" content="Classification de crimes à San Francisco codé en Python (Tensorflow, Keraz, Pandas, ...)">
   
   
     
-  <meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:image" content="/img/kagglepre.png">
   <meta property="og:locale" content="fr">
   
-  <meta property="og:updated_time" content="2018-10-13T20:05:25&#43;02:00">
+  <meta property="article:published_time" content="2018-11-06T10:12:05&#43;01:00">
+  
+  <meta property="article:modified_time" content="2018-11-06T10:12:05&#43;01:00">
   
 
   
 
   
 
-  <title>Tags | Portfolio</title>
+  <title>Kaggle | Portfolio</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -222,58 +222,121 @@
 </nav>
 
 
-
-
-
-
-
-
-<div class="universal-wrapper">
-  <h1>Tags</h1>
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
   
 
+
+
+<div class="article-header">
   
   
-  <div>
-    <h2><a href="/tags/3d/">3D</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/gaming/">Gaming</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/image-processing/">image-processing</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/machine-learning/">machine-learning</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/other/">other</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
+    <img src="/img/kagglepre.png" class="article-banner" itemprop="image">
   
 
   
-
 </div>
+
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">Kaggle</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="float-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Kaggle&amp;url=%2fproject%2fkaggle%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fproject%2fkaggle%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fproject%2fkaggle%2f&amp;title=Kaggle"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fproject%2fkaggle%2f&amp;title=Kaggle"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Kaggle&amp;body=%2fproject%2fkaggle%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </span>
+    </div>
+
+    
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Ce projet a été fait en équipe de 4.
+Il consistait à mettre au point un classifieur de crimes : étant donné
+certaines données du crime (date, heure, localisation, &hellip;) il s&rsquo;agissait de prédire
+ la catégorie de celui-ci (Burglary, driving under the influence, &hellip;).
+ Nous avions pour cela à notre disposition un ensemble de données de crimes fournis
+  par la ville de San Francisco.</p>
+
+<p>Nous avons utilisé : <strong>réseau de neurones</strong> (Keraz), <strong>forêt aléatoire</strong> (Scikit-learn),
+ <strong>k-means</strong>, &hellip;</p>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/machine-learning/">machine-learning</a>
+  
+</div>
+
+
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+
+      
+      
+      
+      
+    
+
+  </div>
+</article>
+
+
+
 <div class="container">
   <footer class="site-footer">
   
@@ -412,6 +475,4 @@
 
   </body>
 </html>
-
-
 
