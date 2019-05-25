@@ -34,5 +34,16 @@ Le jeu devient de plus en plus difficile et un score est calculé à la fin.
 Nous avons fait ce projet à 3. Il a été fait avec OpenGL et nous avons écrit nous-mêmes les shaders. Nous avons mis en place le modèle de Phong pour les effets de lumières.</description>
     </item>
     
+    <item>
+      <title>Projet rendu avancé</title>
+      <link>/project/sia_proj/</link>
+      <pubDate>Sat, 13 Oct 2018 10:22:59 +0200</pubDate>
+      
+      <guid>/project/sia_proj/</guid>
+      <description>L&amp;rsquo;objectif de ce projet était d&amp;rsquo;expérimenter les techniques de rendu avancé tel que le ray tracing. Nous nous sommes également intéressés à la capture de mouvement.
+Nous avons développé l&amp;rsquo;interface avec QT.
+  </description>
+    </item>
+    
   </channel>
 </rss>

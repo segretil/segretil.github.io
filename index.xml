@@ -159,5 +159,25 @@ Nous avons utilisé un &lt;strong&gt;modèle hiérarchique&lt;/strong&gt; pour r
 </description>
     </item>
     
+    <item>
+      <title>Projet rendu avancé</title>
+      <link>/project/sia_proj/</link>
+      <pubDate>Sat, 13 Oct 2018 10:22:59 +0200</pubDate>
+      
+      <guid>/project/sia_proj/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;objectif de ce projet était d&amp;rsquo;expérimenter les techniques
+de rendu avancé tel que le ray tracing.
+Nous nous sommes également intéressés à la capture de mouvement.&lt;/p&gt;
+
+&lt;p&gt;Nous avons développé l&amp;rsquo;interface avec &lt;strong&gt;QT&lt;/strong&gt;.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/afClEJ-RQTU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
